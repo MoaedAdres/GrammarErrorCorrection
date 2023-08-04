@@ -1,1 +1,1 @@
-this project built using tensorflow and lstm to detect and correct the grammar error in spicific text
+## This project built using TensorFlow and LSTM to detect and correct grammar errors in  a specific text
